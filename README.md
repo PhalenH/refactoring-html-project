@@ -1,2 +1,5 @@
 # week-1-homework
-Homework week 1
+
+## Description
+
+This is my week 1 homework assignment that involved refactoring a webpage. This included restructuring an already existing page to follow semantic HTML elements, ensuring all links work, adjust styling for a better user experience, adjusting the CSS file for a more consolidated and clean layout, and following the acceptance criteria provided to me.
