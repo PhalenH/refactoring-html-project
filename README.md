@@ -8,4 +8,4 @@ This is my week 1 homework assignment that involved refactoring a webpage. This 
 
 This is a screenshot of the webpage after refactoring.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/finished-refactoring-image-for-readme.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/finished-refactoring-image-for-readme.png)
