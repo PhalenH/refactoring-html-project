@@ -1,3 +1,4 @@
+/* changed blue background colors to all the same shade blue */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -81,7 +82,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
 }
-
+/* Consolidated benefit classes as well as (SEO/ORM/SMM) classes */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
