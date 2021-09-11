@@ -10,7 +10,8 @@ I began by changing tags (majority being div tags) to more semantic elements inc
 
 ## Finished Product
 
-This is a screenshot of the webpage after refactoring.
+Here is a screenshot and link to the finished webpage after refactoring:
+[Link to webpage](https://phalenh.github.io/refactoring-html-project/Main/index.html)
 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/finished-refactoring-image-for-readme.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Main/assets/images/finished-refactoring-image-for-readme.png)
